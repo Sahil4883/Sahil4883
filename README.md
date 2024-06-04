@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
-<h3 align="center">Full-Stack Web Developer From Thane,India</h3>
+<h3 align="center">Full-Stack Web Developer From India</h3>
 
 - 🌱 I’m currently learning **Next.JS**
 
