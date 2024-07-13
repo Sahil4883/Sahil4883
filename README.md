@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaikhsahil4883@gmail.com**
 
-- ⚡ Fun fact **I am a chemistry major**
+- ⚡ Fun fact **I am a chemistry major and love trading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
