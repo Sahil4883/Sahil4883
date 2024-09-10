@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahilmyportfolio.netlify.app/](https://sahilmyportfolio.netlify.app/)
 
-- 💬 Ask me about **Next,MERN,PHP,Python**
+- 💬 Ask me about **NextJS, MERN, PHP, Python**
 
 - 📫 How to reach me **shaikhsahil4883@gmail.com**
 
