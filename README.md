@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil4883" alt="sahil4883" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Supabase**
 
 - 👨‍💻 All of my projects are available at [https://sahilmyportfolio.netlify.app/](https://sahilmyportfolio.netlify.app/)
 
